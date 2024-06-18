@@ -1,0 +1,62 @@
+{"notifications": [
+    {
+      "id": 1,
+      "name": "Mexican Food",
+      "image": "https://lh3.googleusercontent.com/d/1SHV9Z50zZEZnYP2RVlDkkpB55kcwAmuA",
+      "description": "Spicy, savory, and diverse dishes from Mexico."
+    },
+    {
+      "id": 2,
+      "name": "Sushi",
+      "image": "https://lh3.googleusercontent.com/d/1Mxy_2BbqWJm_1O6aMI_94lqYvyOZfCgV",
+      "description": "Japanese delicacy featuring vinegared rice and various ingredients."
+    },
+    {
+      "id": 3,
+      "name": "Seafood",
+      "image": "https://lh3.googleusercontent.com/d/1EuvE-Fl_OMWZd-aNqsnQgWv51LDJ7jDn",
+      "description": "Fresh catches from the ocean, grilled, fried, or steamed to perfection."
+    },
+    {
+      "id": 4,
+      "name": "Italian Food",
+      "image": "https://lh3.googleusercontent.com/d/1DKa5ZAj523m98fxUkJMhuJyAdvQXhJm-",
+      "description": "Classic pasta dishes, pizzas, and flavorful risottos."
+    },
+    {
+      "id": 5,
+      "name": "Fast Food",
+      "image": "https://lh3.googleusercontent.com/d/1iQJ6pNGGbcqkRcP80zLUQT2iIKKQC52k",
+      "description": "Quick and easy meals like burgers, fries, and fried chicken."
+    },
+    {
+      "id": 6,
+      "name": "Chinese Food",
+      "image": "https://lh3.googleusercontent.com/d/1-FYry2RcT91U2WVvs3nPWC7vMWlzRa-X",
+      "description": "Aromatic stir-fries, flavorful noodles, and savory dumplings."
+    },
+    {
+      "id": 7,
+      "name": "Indian Food",
+      "image": "https://lh3.googleusercontent.com/d/13gwAh2H_V8WiwaRJgjxVIk_mOMFBCaHg",
+      "description": "Aromatic curries, flavorful rice dishes, and tasty naan breads."
+    },
+    {
+      "id": 8,
+      "name": "American Food",
+      "image": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+      "description": "Hearty burgers, juicy steaks, and comfort food classics."
+    },
+    {
+      "id": 9,
+      "name": "Mediterranean Food",
+      "image": "https://lh3.googleusercontent.com/d/1UhNpnWxw6dzlItYtiOCQoFhlMxAlCbvT",
+      "description": "Fresh vegetables, grilled meats, and flavorful dips like hummus."
+    },
+    {
+      "id": 10,
+      "name": "Desserts",
+      "image": "https://lh3.googleusercontent.com/d/1MLdk-l9DphkHtjXEv7g_IbO6WBxOzSyJ",
+      "description": "Sweet treats like cakes, cookies, ice cream, and pastries."
+    }
+  ]}

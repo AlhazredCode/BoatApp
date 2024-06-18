@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "category": "Pizza",
+        "name": "Classic Cheese Pizza",
+        "image": "https://i.imgur.com/t3v7KfW.jpg",
+        "rating": 4.8,
+        "price": 12.99,
+        "description": "A classic pizza with a gooey mozzarella cheese topping.",
+        "quantity": 10
+      },
+      {
+        "id": 2,
+        "category": "Burgers",
+        "name": "The Ultimate Burger",
+        "image": "https://i.imgur.com/z71hM7L.jpg",
+        "rating": 4.9,
+        "price": 14.99,
+        "description": "A juicy beef burger with all the fixings.",
+        "quantity": 8
+      }
+    ]
+  }
+
+  

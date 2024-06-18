@@ -1,0 +1,274 @@
+{
+  "Restaurants": [
+    {
+      "restaurant": {
+        "id": 1,
+        "name": "The Salty Siren",
+        "image_url": "https://lh3.googleusercontent.com/d/13O5U9kat6o_8f7FNNBil6q6EfBQHVb1t",
+        "description": "Your favorite seafood and cocktails delivered right to your boat! Enjoy fresh catches, classic sides, and refreshing drinks while you relax on the water.",
+        "cuisine": "Seafood, American",
+        "opening_hours": {
+          "monday": "11:00 AM - 9:00 PM",
+          "tuesday": "11:00 AM - 9:00 PM",
+          "wednesday": "11:00 AM - 9:00 PM",
+          "thursday": "11:00 AM - 9:00 PM",
+          "friday": "11:00 AM - 10:00 PM",
+          "saturday": "11:00 AM - 10:00 PM",
+          "sunday": "12:00 PM - 9:00 PM"
+        },
+        "rating": 4.8,
+        "price_range": "$$",
+        "delivery_time": "30-45 min",
+        "delivery_fee": 4.99,
+        "minimum_order": 15,
+        "location": {
+          "latitude": 25.7617,
+          "longitude": -80.1918
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 2,
+        "name": "The Hungry Pelican",
+        "image_url": "https://lh3.googleusercontent.com/d/1-giZB-W-qOqdDeOy4HarA2hg5j2lqK_0",
+        "description": "Casual waterfront dining with a focus on fresh, local ingredients. We serve up delicious seafood, juicy burgers, and crisp salads.",
+        "cuisine": "Seafood, American",
+        "opening_hours": {
+          "monday": "11:30 AM - 9:30 PM",
+          "tuesday": "11:30 AM - 9:30 PM",
+          "wednesday": "11:30 AM - 9:30 PM",
+          "thursday": "11:30 AM - 10:00 PM",
+          "friday": "11:30 AM - 10:00 PM",
+          "saturday": "11:30 AM - 10:00 PM",
+          "sunday": "12:00 PM - 9:00 PM"
+        },
+        "rating": 4.5,
+        "price_range": "$$",
+        "delivery_time": "25-40 min",
+        "delivery_fee": 3.99,
+        "minimum_order": 12,
+        "location": {
+          "latitude": 25.761,
+          "longitude": -80.1925
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 3,
+        "name": "Captain's Catch",
+        "image_url": "https://lh3.googleusercontent.com/d/1Jzapeqe4kT1bbqlc7HWYTvDlp27p0MpJ",
+        "description": "Ahoy there! Enjoy authentic fish and chips, shrimp baskets, and other seafood classics made with our secret family recipe.",
+        "cuisine": "Seafood, British",
+        "opening_hours": {
+          "monday": "12:00 PM - 8:00 PM",
+          "tuesday": "12:00 PM - 8:00 PM",
+          "wednesday": "12:00 PM - 8:00 PM",
+          "thursday": "12:00 PM - 9:00 PM",
+          "friday": "12:00 PM - 9:00 PM",
+          "saturday": "12:00 PM - 9:00 PM",
+          "sunday": "Closed"
+        },
+        "rating": 4.7,
+        "price_range": "$",
+        "delivery_time": "20-35 min",
+        "delivery_fee": 2.99,
+        "minimum_order": 10,
+        "location": {
+          "latitude": 25.7622,
+          "longitude": -80.1905
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 4,
+        "name": "Pizza Paradise",
+        "image_url": "https://lh3.googleusercontent.com/d/11ca9qe_XNxKWgwNIgxvPa8jQE5xzTLYf",
+        "description": "Enjoy delicious hand-tossed pizzas, cheesy breadsticks, and refreshing drinks delivered hot and fresh to your boat.",
+        "cuisine": "Pizza, Italian",
+        "opening_hours": {
+          "monday": "11:00 AM - 10:00 PM",
+          "tuesday": "11:00 AM - 10:00 PM",
+          "wednesday": "11:00 AM - 10:00 PM",
+          "thursday": "11:00 AM - 11:00 PM",
+          "friday": "11:00 AM - 12:00 AM",
+          "saturday": "11:00 AM - 12:00 AM",
+          "sunday": "12:00 PM - 10:00 PM"
+        },
+        "rating": 4.6,
+        "price_range": "$",
+        "delivery_time": "35-50 min",
+        "delivery_fee": 4.99,
+        "minimum_order": 12,
+        "location": {
+          "latitude": 25.763,
+          "longitude": -80.1912
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 5,
+        "name": "Thai Spice",
+        "image_url": "https://lh3.googleusercontent.com/d/10UCzhOXVen0DNA3_QonFpFUN_8J8oJ6J",
+        "description": "Experience the authentic flavors of Thailand with our delicious curries, noodles, and stir-fries.",
+        "cuisine": "Thai",
+        "opening_hours": {
+          "monday": "Closed",
+          "tuesday": "5:00 PM - 9:00 PM",
+          "wednesday": "5:00 PM - 9:00 PM",
+          "thursday": "5:00 PM - 9:30 PM",
+          "friday": "5:00 PM - 10:00 PM",
+          "saturday": "5:00 PM - 10:00 PM",
+          "sunday": "5:00 PM - 9:00 PM"
+        },
+        "rating": 4.9,
+        "price_range": "$$",
+        "delivery_time": "40-55 min",
+        "delivery_fee": 5.99,
+        "minimum_order": 20,
+        "location": {
+          "latitude": 25.7625,
+          "longitude": -80.192
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 6,
+        "name": "Burgerlicious",
+        "image_url": "https://lh3.googleusercontent.com/d/13O5U9kat6o_8f7FNNBil6q6EfBQHVb1t",
+        "description": "Home of the best burgers in town! We use only the freshest ingredients and cook our patties to perfection.",
+        "cuisine": "Burgers, American",
+        "opening_hours": {
+          "monday": "11:00 AM - 9:00 PM",
+          "tuesday": "11:00 AM - 9:00 PM",
+          "wednesday": "11:00 AM - 9:00 PM",
+          "thursday": "11:00 AM - 10:00 PM",
+          "friday": "11:00 AM - 10:00 PM",
+          "saturday": "11:00 AM - 10:00 PM",
+          "sunday": "12:00 PM - 9:00 PM"
+        },
+        "rating": 4.4,
+        "price_range": "$",
+        "delivery_time": "25-40 min",
+        "delivery_fee": 3.99,
+        "minimum_order": 10,
+        "location": {
+          "latitude": 25.7618,
+          "longitude": -80.19
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 7,
+        "name": "Taco Fiesta",
+        "image_url": "https://lh3.googleusercontent.com/d/1-giZB-W-qOqdDeOy4HarA2hg5j2lqK_0",
+        "description": "Get ready for a fiesta in your mouth! We serve authentic Mexican tacos, burritos, and quesadillas.",
+        "cuisine": "Mexican",
+        "opening_hours": {
+          "monday": "11:00 AM - 9:00 PM",
+          "tuesday": "11:00 AM - 9:00 PM",
+          "wednesday": "11:00 AM - 9:00 PM",
+          "thursday": "11:00 AM - 10:00 PM",
+          "friday": "11:00 AM - 11:00 PM",
+          "saturday": "11:00 AM - 11:00 PM",
+          "sunday": "12:00 PM - 9:00 PM"
+        },
+        "rating": 4.7,
+        "price_range": "$",
+        "delivery_time": "30-45 min",
+        "delivery_fee": 4.99,
+        "minimum_order": 12,
+        "location": {
+          "latitude": 25.7627,
+          "longitude": -80.1915
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 8,
+        "name": "Sushi Wave",
+        "image_url": "https://lh3.googleusercontent.com/d/1Jzapeqe4kT1bbqlc7HWYTvDlp27p0MpJ",
+        "description": "Enjoy fresh and delicious sushi, sashimi, and rolls made with the finest ingredients.",
+        "cuisine": "Japanese",
+        "opening_hours": {
+          "monday": "Closed",
+          "tuesday": "5:00 PM - 9:30 PM",
+          "wednesday": "5:00 PM - 9:30 PM",
+          "thursday": "5:00 PM - 10:00 PM",
+          "friday": "5:00 PM - 10:30 PM",
+          "saturday": "5:00 PM - 10:30 PM",
+          "sunday": "5:00 PM - 9:30 PM"
+        },
+        "rating": 4.6,
+        "price_range": "$$$",
+        "delivery_time": "45-60 min",
+        "delivery_fee": 6.99,
+        "minimum_order": 25,
+        "location": {
+          "latitude": 25.7609,
+          "longitude": -80.1922
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 9,
+        "name": "The Green Bowl",
+        "image_url": "https://lh3.googleusercontent.com/d/11ca9qe_XNxKWgwNIgxvPa8jQE5xzTLYf",
+        "description": "Healthy and delicious salads, wraps, and smoothies made with fresh, organic ingredients.",
+        "cuisine": "Salads, Healthy",
+        "opening_hours": {
+          "monday": "10:00 AM - 8:00 PM",
+          "tuesday": "10:00 AM - 8:00 PM",
+          "wednesday": "10:00 AM - 8:00 PM",
+          "thursday": "10:00 AM - 8:00 PM",
+          "friday": "10:00 AM - 8:00 PM",
+          "saturday": "11:00 AM - 7:00 PM",
+          "sunday": "11:00 AM - 7:00 PM"
+        },
+        "rating": 4.3,
+        "price_range": "$$",
+        "delivery_time": "20-35 min",
+        "delivery_fee": 3.99,
+        "minimum_order": 10,
+        "location": {
+          "latitude": 25.762,
+          "longitude": -80.191
+        }
+      }
+    },
+    {
+      "restaurant": {
+        "id": 10,
+        "name": "Sweet Surrender",
+        "image_url": "https://lh3.googleusercontent.com/d/10UCzhOXVen0DNA3_QonFpFUN_8J8oJ6J",
+        "description": "Indulge your sweet tooth with our delicious cakes, cupcakes, ice cream, and other decadent treats.",
+        "cuisine": "Desserts, Bakery",
+        "opening_hours": {
+          "monday": "12:00 PM - 9:00 PM",
+          "tuesday": "12:00 PM - 9:00 PM",
+          "wednesday": "12:00 PM - 9:00 PM",
+          "thursday": "12:00 PM - 10:00 PM",
+          "friday": "12:00 PM - 11:00 PM",
+          "saturday": "12:00 PM - 11:00 PM",
+          "sunday": "1:00 PM - 9:00 PM"
+        },
+        "rating": 4.8,
+        "price_range": "$$",
+        "delivery_time": "35-50 min",
+        "delivery_fee": 4.99,
+        "minimum_order": 15,
+        "location": {
+          "latitude": 25.7613,
+          "longitude": -80.1928
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Classic Burger",
+            "price": "5.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "A timeless classic with lettuce, tomato, onion, and our special sauce."
+          },
+          {
+            "id": 2,
+            "name": "BBQ Burger",
+            "price": "6.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Smothered in smoky BBQ sauce, with crispy onion rings and cheddar cheese."
+          },
+          {
+            "id": 3,
+            "name": "Mexican Burger",
+            "price": "7.25",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Spicy and flavorful with jalapenos, pepper jack cheese, and chipotle mayo."
+          },
+          {
+            "id": 4,
+            "name": "Chicken Burger",
+            "price": "8.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Grilled chicken breast with lettuce, tomato, and mayo on a toasted bun."
+          },
+          {
+            "id": 5,
+            "name": "Mushroom Swiss Burger super long text ",
+            "price": "9.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Savory sauteed mushrooms and melted Swiss cheese for a rich and satisfying bite."
+          },
+          {
+            "id": 6,
+            "name": "Double Bacon Burger",
+            "price": "10.75",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Double the beef, double the bacon, double the deliciousness!"
+          },
+          {
+            "id": 7,
+            "name": "Angus Bacon Burger",
+            "price": "12.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Burger",
+            "description": "Premium Angus beef, crispy bacon, and your choice of toppings."
+          },
+          {
+            "id": 8,
+            "name": "Classic Hot Dog",
+            "price": "4.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Hot Dog",
+            "description": "All-beef hot dog on a toasted bun."
+          },
+          {
+            "id": 9,
+            "name": "Chili Cheese Hot Dog",
+            "price": "5.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Hot Dog",
+            "description": "Topped with our homemade chili and melted cheddar cheese."
+          },
+          {
+            "id": 10,
+            "name": "French Fries",
+            "price": "3.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Fries",
+            "description": "Crispy golden-brown fries."
+          },
+          {
+            "id": 11,
+            "name": "Cheese Fries",
+            "price": "4.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Fries",
+            "description": "Smothered in melted cheddar cheese."
+          },
+          {
+            "id": 12,
+            "name": "Onion Rings",
+            "price": "3.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Fries",
+            "description": "Crispy and flavorful onion rings."
+          },
+          {
+            "id": 13,
+            "name": "Soda",
+            "price": "2.50",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Drink",
+            "description": "Choose your favorite flavor."
+          },
+          {
+            "id": 14,
+            "name": "Water",
+            "price": "2.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Drink",
+            "description": "Refreshing bottled water."
+          },
+          {
+            "id": 15,
+            "name": "Juice",
+            "price": "3.00",
+            "img": "https://lh3.googleusercontent.com/d/1XOChfSRq0V_-tUFupkCvZaI4ej5TUTMQ",
+            "category": "Drink",
+            "description": "Choose your favorite flavor."
+          }
+    ]
+  }

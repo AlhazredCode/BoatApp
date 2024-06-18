@@ -1,0 +1,124 @@
+{
+    "notifications": [
+      {
+        "id": 1,
+        "time": "2024-06-05T22:30:00-04:00",
+        "text": "**New Notification!** You have a new delivery order on its way.",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 2,
+        "time": "2024-06-05T20:30:00-04:00",
+        "text": "Your boat rental has been confirmed",
+        "image": "https://lh3.googleusercontent.com/d/1KqLB4Q61onQdpiETNIPrZqLwz43qBaFi"
+      },
+      {
+        "id": 3,
+        "time": "2024-06-05T18:30:00-04:00",
+        "text": "You have a new boat trip reservation",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 4,
+        "time": "2024-06-05T16:30:00-04:00",
+        "text": "Your boat rental payment has been processed",
+        "image": "https://lh3.googleusercontent.com/d/1XCjByBMSmzQNu3H-eiuhc4CmGsYEXMe_"
+      },
+      {
+        "id": 5,
+        "time": "2024-06-05T14:30:00-04:00",
+        "text": "Your boat is ready for pick up",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 6,
+        "time": "2024-06-05T12:30:00-04:00",
+        "text": "Don't forget to return your boat on time",
+        "image": "https://lh3.googleusercontent.com/d/1KqLB4Q61onQdpiETNIPrZqLwz43qBaFi"
+      },
+      {
+        "id": 7,
+        "time": "2024-06-05T10:30:00-04:00",
+        "text": "Your boat captain is waiting for you",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 8,
+        "time": "2024-06-05T08:30:00-04:00",
+        "text": "Enjoy your day at sea with our boat",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 9,
+        "time": "2024-06-05T06:30:00-04:00",
+        "text": "Don't forget to take amazing photos on your boat trip!",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 10,
+        "time": "2024-06-05T04:30:00-04:00",
+        "text": "Thank you for using our boat delivery and rental app",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 11,
+        "time": "2024-06-05T22:30:00-04:00",
+        "text": "**New Notification!** You have a new delivery order on its way.",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 12,
+        "time": "2024-06-05T20:30:00-04:00",
+        "text": "Your boat rental has been confirmed",
+        "image": "https://lh3.googleusercontent.com/d/1KqLB4Q61onQdpiETNIPrZqLwz43qBaFi"
+      },
+      {
+        "id": 13,
+        "time": "2024-06-05T18:30:00-04:00",
+        "text": "You have a new boat trip reservation",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 14,
+        "time": "2024-06-05T16:30:00-04:00",
+        "text": "Your boat rental payment has been processed",
+        "image": "https://lh3.googleusercontent.com/d/1XCjByBMSmzQNu3H-eiuhc4CmGsYEXMe_"
+      },
+      {
+        "id": 15,
+        "time": "2024-06-05T14:30:00-04:00",
+        "text": "Your boat is ready for pick up",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 16,
+        "time": "2024-06-05T12:30:00-04:00",
+        "text": "Don't forget to return your boat on time",
+        "image": "https://lh3.googleusercontent.com/d/1KqLB4Q61onQdpiETNIPrZqLwz43qBaFi"
+      },
+      {
+        "id": 17,
+        "time": "2024-06-05T10:30:00-04:00",
+        "text": "Your boat captain is waiting for you",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 18,
+        "time": "2024-06-05T08:30:00-04:00",
+        "text": "Enjoy your day at sea with our boat",
+        "image": "https://lh3.googleusercontent.com/d/1DLiPKwhXtNicDXqaiVEzVaacm-mFDnNk"
+      },
+      {
+        "id": 19,
+        "time": "2024-06-05T06:30:00-04:00",
+        "text": "Don't forget to take amazing photos on your boat trip!",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      },
+      {
+        "id": 20,
+        "time": "2024-06-05T04:30:00-04:00",
+        "text": "Thank you for using our boat delivery and rental app",
+        "image": "https://lh3.googleusercontent.com/d/1m3Bc3VbxktxXtWTaI1dMwUqwzqfhWY4_"
+      }
+    ]
+  }
