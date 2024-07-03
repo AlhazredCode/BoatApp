@@ -1,4 +1,4 @@
-import { View, Dimensions } from "react-native";
+import { View, Dimensions, SafeAreaView } from "react-native";
 import React from "react";
 import { useNavigation } from "@react-navigation/native";
 import { FontAwesome6, MaterialIcons, Octicons } from '@expo/vector-icons';
@@ -59,6 +59,7 @@ const Header = ({ typeNavigation, activePage }) => {
   };
 
   return (
+    <SafeAreaView>
     <Center>
       <Box w={ww} px h={wh * 0.075}  sx={useBackground("Header")}>
         <HStack mx={ww * 0.05} h="100%" justifyContent="space-between">
@@ -105,6 +106,7 @@ const Header = ({ typeNavigation, activePage }) => {
         </HStack>
       </Box>
     </Center>
+    </SafeAreaView>
   );
 };
 

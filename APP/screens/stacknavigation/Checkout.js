@@ -1,6 +1,6 @@
 import React from 'react';
 import MapView from 'react-native-maps';
-import { StyleSheet, View, Dimensions, ScrollView} from 'react-native';
+import { StyleSheet, View, Dimensions, ScrollView, SafeAreaView} from 'react-native';
 import { 
   Box, 
   Text, 
@@ -62,6 +62,7 @@ export default function Checkout() {
   const navigation = useNavigation()
   return (
     <>
+    <SafeAreaView  flex={1}>
    <Background color='Surfaces1'>
      <Box flex={1} w={ ww * 0.9} alignSelf='center' mt={wh * 0.025}>
           <Text color="$text700" ff='Inter-Bold' fs={wh * 0.04} mb={wh * 0.01}>Checkout</Text>
@@ -164,6 +165,7 @@ export default function Checkout() {
            <Text textAlign="center" color="$text50" ff="Inter-SemiBold"> Place Order </Text>
          </Pressable>
    </Background>
+   </SafeAreaView>
        </>
     
   );

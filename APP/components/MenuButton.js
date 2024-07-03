@@ -1,5 +1,5 @@
 import React, { useState, useRef } from "react";
-import { View, Modal, Dimensions, StyleSheet } from "react-native";
+import { View, Modal, Dimensions, StyleSheet, SafeAreaView } from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import Octicons from "@expo/vector-icons/Octicons";
 import { Image, Center, Box, Pressable, Text } from "../../components/index";
@@ -30,6 +30,7 @@ const MenuButton = () => {
   };
 
   return (
+    <SafeAreaView>
     <View style={styles.container}>
       <Modal
         animationType="slide"
@@ -37,7 +38,7 @@ const MenuButton = () => {
         visible={isModalVisible}
         onRequestClose={() => setIsModalVisible(false)}
       >
-        <View style={styles.modalOverlay}>
+        <SafeAreaView style={styles.modalOverlay}>
           <View style={styles.modalContent}>
             <Box justifyContent="center" flex={1}>
             <Image
@@ -155,7 +156,7 @@ const MenuButton = () => {
               </Animatable.View>
             </Pressable>
           </View>
-        </View>
+        </SafeAreaView>
       </Modal>
 
       <Pressable onPress={handlePress} style={styles.button}>
@@ -172,6 +173,7 @@ const MenuButton = () => {
         </Animatable.View>
       </Pressable>
     </View>
+    </SafeAreaView>
   );
 };
 

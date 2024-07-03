@@ -22,7 +22,7 @@ import {
   Octicons,
   Ionicons,
 } from "@expo/vector-icons";
-
+import { SafeAreaView } from "react-native";
 import PagerView from "react-native-pager-view";
 
 const Tab = createMaterialTopTabNavigator();
@@ -56,6 +56,7 @@ export default function Item() {
 
   return (
     <>
+    <SafeAreaView flex={1}>
       <Image
         bg="white"
         height={ww * 0.4}
@@ -107,6 +108,7 @@ export default function Item() {
           </Tab.Screen>
         ))}
       </Tab.Navigator>
+      </SafeAreaView>
     </>
   );
 }

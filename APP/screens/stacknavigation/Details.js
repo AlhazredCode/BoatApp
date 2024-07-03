@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Dimensions ,ScrollView} from "react-native";
+import { View, Dimensions ,ScrollView, SafeAreaView} from "react-native";
 import data from "../../../API/menudata.json";
 import { useNavigation } from "@react-navigation/native";
 import {
@@ -47,6 +47,7 @@ const Details = ({ route }) => {
 
   return (
     <>
+    <SafeAreaView  flex={1}>
       <Box flex={1} width={ww * 0.9} alignSelf="center" my={wh * 0.025}>
         <Image
           bg="white"
@@ -119,6 +120,7 @@ const Details = ({ route }) => {
       <Pressable onPress={() => navigation.navigate("Checkout")} bg="$secondary400" p={ww * 0.025} mb={ww * 0.05} mx={ww * 0.05} rounded="$lg">
         <Text textAlign="center" color="$text100" ff="Inter-SemiBold"> Add Item </Text>
       </Pressable>
+      </SafeAreaView>
     </>
   );
 };

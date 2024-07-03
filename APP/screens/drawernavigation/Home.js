@@ -1,4 +1,4 @@
-import { View, Text } from 'react-native';
+import { View, Text, SafeAreaView } from 'react-native';
 import React, { useState } from 'react';
 import Feed from '../stacknavigation/Feed';
 import PagerView from 'react-native-pager-view';
@@ -15,6 +15,7 @@ const Home = () => {
 
   return (
     <>
+    <SafeAreaView flex={1}> 
       <Header typeNavigation="primary" activePage={activePage} /> 
       <PagerView flex={1} initialPage={0} onPageSelected={handlePageSelected}>
         <View key="1">
@@ -25,6 +26,7 @@ const Home = () => {
         </View>
       </PagerView>
       <MenuButton />
+      </SafeAreaView>
     </>
   );
 };
